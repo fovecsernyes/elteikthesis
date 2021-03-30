@@ -1,0 +1,16 @@
+Current memory usage is 0.040451MB; Peak was 0.582965MB
+Current memory usage is 0.032378MB; Peak was 0.439213MB
+Current memory usage is 0.031808MB; Peak was 0.425646MB
+Current memory usage is 0.032625MB; Peak was 0.443686MB
+Current memory usage is 0.026683MB; Peak was 0.42595MB
+Current memory usage is 0.032696MB; Peak was 0.429847MB
+Current memory usage is 0.025999MB; Peak was 0.420548MB
+Current memory usage is 0.024923MB; Peak was 0.419362MB
+Current memory usage is 0.033613MB; Peak was 0.41899MB
+Current memory usage is 0.025803MB; Peak was 0.419474MB
+Current memory usage is 0.027499MB; Peak was 0.418822MB
+Current memory usage is 0.024571MB; Peak was 0.419174MB
+Current memory usage is 0.027862MB; Peak was 0.427372MB
+Current memory usage is 0.027163MB; Peak was 0.420696MB
+Current memory usage is 0.026507MB; Peak was 0.41895MB
+Current memory usage is 0.026293MB; Peak was 0.417586MB
