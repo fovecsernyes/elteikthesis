@@ -1,0 +1,1 @@
+find . -iname "*.py" | xargs pyan --dot --colored --no-defines --grouped --annotated | dot -Tpng -Granksep=1.5
