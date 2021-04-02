@@ -40,4 +40,3 @@ DATABASE_INSERT: current memory usage is 0.004671MB; Peak was 0.006513MB
 GENETIC_ALGORITHM: current memory usage is 0.015442MB; Peak was 0.231257MB
 DATABASE_INSERT: current memory usage is 0.004671MB; Peak was 0.006513MB
 GENETIC_ALGORITHM: current memory usage is 0.01489MB; Peak was 0.2274MB
-Database connection closed.

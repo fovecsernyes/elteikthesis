@@ -1,1 +1,5 @@
-find . -iname "*.py" | xargs pyan --dot --colored --no-defines --grouped --annotated | dot -Tpng -Granksep=1.5
+find . -iname "*.py" | xargs pyan --dot | dot -Tsvg -Granksep=1.5 > 1.svg &&
+find . -iname "*.py" | xargs pyan --dot --no-defines | dot -Tsvg -Granksep=1.5 > 2.svg &&
+find . -iname "*.py" | xargs pyan --dot --no-defines --grouped | dot -Tsvg -Granksep=1.5 > 3.svg &&
+find . -iname "*.py" | xargs pyan --dot --colored --no-defines --grouped | dot -Tsvg -Granksep=1.5 > 4.svg &&
+find . -iname "*.py" | xargs pyan --dot --colored --no-defines --grouped --annotated | dot -Tsvg -Granksep=1.5 > 5.svg
